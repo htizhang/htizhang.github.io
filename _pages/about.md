@@ -29,11 +29,10 @@ I am a Ph.D. student in the [Department of Industrial Engineering & Operations R
 
 ---
 #### Education
-Ph.D. in IEOR from University of California, Berkeley 
+Ph.D. in IEOR from University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
+M.S. in IEOR from University of California, Berkeley <span style="float:right;">(2021)</span>  
+B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
 
-M.S. in IEOR from University of California, Berkeley
-
-B.S. in Mathematics from Sichuan University
 
 ---
 
