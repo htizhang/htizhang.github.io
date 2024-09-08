@@ -9,9 +9,8 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:12px; color:grey">she/her/hers</p>
       <p style="font-size:12px; color:grey">Berkeley, California</p>
-    <p style="font-size:12px; color:grey">yunduan_lin[at]berkeley[dot]edu</p>
+    <p style="font-size:12px; color:grey">haoting_zhang[at]berkeley[dot]edu</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -36,4 +35,3 @@ I earned my M.S. degree (2020) in IEOR from Berkeley and B.S. degree (2019) in M
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
