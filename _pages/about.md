@@ -30,17 +30,29 @@ I am a Ph.D. student in the [Industrial Engineering & Operations Research (IEOR)
 ---
 #### Education
 Ph.D. in IEOR
+
 M.S. in IEOR from UC Berkeley
+
 B.S. in Mathematics from Sichuan University
 
 ---
 
 
 #### Research Interests
-Simulation Analytics; Stochastic Systems; and Machine Learning
+Simulation Analytics, Stochastic Systems, and Machine Learning
 
 #### Publications
+<!-- _pages/publications.md -->
 
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
 
 #### Working Papers
 
