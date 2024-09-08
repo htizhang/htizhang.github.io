@@ -30,7 +30,7 @@ I am a Ph.D. student in the [Department of Industrial Engineering & Operations R
 ---
 #### Education
 Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
-Thesis Committee: Prof. [Zeyu Zheng] (https://zheng.ieor.berkeley.edu/), Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), Prof. [Zuo-Jun Max Shen](https://shen.ieor.berkeley.edu/), and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/)
+  Thesis Committee: Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), Prof. [Zuo-Jun Max Shen](https://shen.ieor.berkeley.edu/), and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/)
 
 M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span>  
 B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
@@ -57,5 +57,28 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 
 </div>
 
+
+---
 #### Working Papers
+
+
+---
+
+#### Teaching Experiences
+IEOR 263A **Applied Stochastic Process I**, Fall 2024
+
+IEOR 166 **Decision Analytics**, Fall 2023
+
+
+---
+
+
+#### Industrial Internships
+
+Applied Scientist in the Department of Supply Chain Optimization Technology (SCOT), Bellevue, WA <span style="float:right;">(May 2024 -- Aug. 2024)</span>
+
+Applied Scientist in the Department of Supply Chain Optimization Technology (SCOT), Bellevue, WA <span style="float:right;">(June 2023 -- Sep. 2024)</span>
+
+
+
 
