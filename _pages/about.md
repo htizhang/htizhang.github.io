@@ -30,10 +30,11 @@ I am a Ph.D. student in the [Department of Industrial Engineering & Operations R
 ---
 #### Education
 Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
-  Thesis Committee: Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), Prof. [Zuo-Jun Max Shen](https://shen.ieor.berkeley.edu/), and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/)
+<span style="font-size:90%; margin-left:20px;">Thesis Committee: Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), Prof. [Zuo-Jun Max Shen](https://shen.ieor.berkeley.edu/), and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/)</span>
 
 M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span>  
 B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
+
 
 
 
