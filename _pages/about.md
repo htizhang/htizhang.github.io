@@ -2,36 +2,29 @@
 layout: about
 title: About
 permalink: /
-subtitle: Good morning, and in case I don't see you, good afternoon, good evening, and good night!
+#subtitle: 
 
 profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:12px; color:grey">she/her/hers</p>
+    <p style="font-size:12px; color:grey">he/him/his</p>
       <p style="font-size:12px; color:grey">Berkeley, California</p>
-    <p style="font-size:12px; color:grey">yunduan_lin[at]berkeley[dot]edu</p>
+    <p style="font-size:12px; color:grey">haoting_zhang[at]berkeley[dot]edu</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 ---
 
-This is Yunduan,\\
-a fifth-year Ph.D. candidate,\\
-in [Systems Engineering program](https://ce.berkeley.edu/programs/sys),\\
-of [Department of Civil and Environmental Engineering](https://ce.berkeley.edu),\\
-at University of California, Berkeley.
+I am a Ph.D. student in the [Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) department at University of California, Berkeley. I am advised by Prof. Zeyu Zheng and Prof. Rhonda Righter.
 
-My advisor is Prof. [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu).
 
-I earned my M.S. degree (2019) from Berkeley and B.Eng. degree (2018) from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), both in Civil Engineering.
 
-I will be joining the [Chinese University of Hong Kong (CUHK) Business School](https://www.bschool.cuhk.edu.hk) as an Assistant Professor in the [Department of Decisions, Operations and Technology](https://www.bschool.cuhk.edu.hk/departments/decisions-operations-and-technology/) in Fall 2024.
 
 
 ---
