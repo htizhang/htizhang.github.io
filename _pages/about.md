@@ -40,6 +40,8 @@ B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</s
 #### Research Interests
 Simulation Analytics, Stochastic Systems, and Machine Learning
 
+---
+
 #### Publications
 <!-- _pages/publications.md -->
 
