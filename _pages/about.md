@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. student in the [Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) department at University of California, Berkeley. I am advised by Prof. Zeyu Zheng and Prof. Rhonda Righter.
+I am a Ph.D. student in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). I am advised by Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/).
 
 
 
@@ -29,9 +29,9 @@ I am a Ph.D. student in the [Industrial Engineering & Operations Research (IEOR)
 
 ---
 #### Education
-Ph.D. in IEOR from UC Berkeley 
+Ph.D. in IEOR from University of California, Berkeley 
 
-M.S. in IEOR from UC Berkeley
+M.S. in IEOR from University of California, Berkeley
 
 B.S. in Mathematics from Sichuan University
 
