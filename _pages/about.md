@@ -29,7 +29,7 @@ I am a Ph.D. student in the [Industrial Engineering & Operations Research (IEOR)
 
 ---
 #### Education
-Ph.D. in IEOR
+Ph.D. in IEOR from UC Berkeley 
 
 M.S. in IEOR from UC Berkeley
 
