@@ -46,7 +46,6 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
 
 <div class="publications">
 
@@ -56,4 +55,3 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 
 #### Working Papers
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
