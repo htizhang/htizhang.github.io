@@ -9,9 +9,9 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:12px; color:grey">he/him/his</p>
+    <p style="font-size:12px; color:grey">she/her/hers</p>
       <p style="font-size:12px; color:grey">Berkeley, California</p>
-    <p style="font-size:12px; color:grey">haoting_zhang[at]berkeley[dot]edu</p>
+    <p style="font-size:12px; color:grey">yunduan_lin[at]berkeley[dot]edu</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -22,13 +22,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 This is Haoting Zhang,\\
-a Ph.D. candidate in [Industrial Engineering & Operations Research (IEOR)](https://https://ieor.berkeley.edu/),\\
+a fourth-year Ph.D. candidate in [Industrial Engineering & Operations Research (IEOR)](https://ce.berkeley.edu/programs/sys),\\
 at University of California, Berkeley.
 
-I am co-advised by Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/). 
+My co-advisors are Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/).
 
 I earned my M.S. degree (2020) in IEOR from Berkeley and B.S. degree (2019) in Mathematics from Sichuan University.
-
 
 ---
 
