@@ -1,25 +1,39 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: In me the tiger sniffs the rose.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size:12px; color:grey">she/her/hers</p>
+      <p style="font-size:12px; color:grey">Berkeley, California</p>
+    <p style="font-size:12px; color:grey">yunduan_lin[at]berkeley[dot]edu</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This is Haoting Zhang,\\
+a fourth-year Ph.D. candidate in [Industrial Engineering & Operations Research (IEOR)](https://ce.berkeley.edu/programs/sys),\\
+at University of California, Berkeley.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My co-advisors are Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/).
+
+I earned my M.S. degree (2020) in IEOR from Berkeley and B.S. degree (2019) in Mathematics from Sichuan University.
+
+---
+
+
+#### Research Interests
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
