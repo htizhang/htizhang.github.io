@@ -47,27 +47,16 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 ---
 
 #### Publications
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-
 <div class="publications">
-
-{% bibliography %}
-
+  {% bibliography --file papers %}
 </div>
-
 
 ---
+
 #### Working Papers
-
 <div class="working_papers">
-
-{% bibliography %}
-
+  {% bibliography --file working_papers %}
 </div>
-
 
 ---
 
