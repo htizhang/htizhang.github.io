@@ -42,3 +42,9 @@ $max-content-width: {{ site.max_width }};
 .bib-entry p {
   margin: 0;
 }
+
+
+
+h4#teaching-experiences + ul, h4#industrial-internships + ul {
+  padding-left: 11rem;
+}
