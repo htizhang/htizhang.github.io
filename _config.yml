@@ -322,7 +322,7 @@ scholar:
     details_dir: bibliography
     details_link: Details
     query: "@*"
-    group_by: none
+    group_by: year
     group_order: descending
 
   # Configuration for the working papers section
@@ -332,7 +332,7 @@ scholar:
     details_dir: bibliography
     details_link: Details
     query: "@*"
-    group_by: none
+    group_by: year
     group_order: descending
 
   # Filters and other settings for BibTeX entries
