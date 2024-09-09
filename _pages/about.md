@@ -54,8 +54,8 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 ---
 
 #### Working Papers
-<div class="working_papers">
-  {% bibliography --file working_papers %}
+<div class="working-papers">
+  {% bibliography --file working-papers %}
 </div>
 
 ---

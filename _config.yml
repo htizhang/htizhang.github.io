@@ -335,8 +335,8 @@ scholar:
   group_order: descending
 
   # Configuration for the working papers section
-  working_papers:
-    bibliography: working_papers.bib  # File for working papers
+  working-papers:
+    bibliography: working-papers.bib  # File for working papers
     bibliography_template: bib  # Use the same bib.liquid template
     details_dir: bibliography
     details_link: Details

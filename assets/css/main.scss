@@ -23,3 +23,22 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+// Add styles at the end of the file
+.publications, .working-paper {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.bib-entry {
+  margin-bottom: 10px;
+}
+
+.bib-entry h3 {
+  font-weight: bold;
+}
+
+.bib-entry p {
+  margin: 0;
+}
