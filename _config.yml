@@ -316,25 +316,30 @@ scholar:
   source: /_bibliography/
 
   # Main bibliography for published papers
-  bibliography: papers.bib
-  bibliography_template: bib
+  publications:
+    bibliography: papers.bib
+    bibliography_template: bib
+    details_dir: bibliography
+    details_link: Details
+    query: "@*"
+    group_by: none
+    group_order: descending
 
   # Configuration for the working papers section
-  bibliography: working_papers.bib
-  bibliography_template: bib
+  working_papers:
+    bibliography: working_papers.bib
+    bibliography_template: bib
+    details_dir: bibliography
+    details_link: Details
+    query: "@*"
+    group_by: none
+    group_order: descending
 
   # Filters and other settings for BibTeX entries
   bibtex_filters: [latex, smallcaps, superscript]
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography  # Directory for detailed views of entries
-  details_link: Details       # Label for links to detailed views
-
-  # Default query and grouping for the main bibliography (publications)
-  query: "@*"
-  group_by: year
-  group_order: descending
 
 
 
