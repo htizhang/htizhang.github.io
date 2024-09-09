@@ -71,7 +71,7 @@ IEOR 166 **Decision Analytics**, Fall 2023
 
 Applied Scientist in the Department of Supply Chain Optimization Technology (SCOT), Bellevue, WA <span style="float:right;">(May 2024 -- Aug. 2024)</span>
 
-Applied Scientist in the Department of Supply Chain Optimization Technology (SCOT), Bellevue, WA <span style="float:right;">(June 2023 -- Sep. 2024)</span>
+Applied Scientist in the Department of Supply Chain Optimization Technology (SCOT), Bellevue, WA <span style="float:right;">(June 2023 -- Sep. 2023)</span>
 
 
 
