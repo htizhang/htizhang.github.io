@@ -59,9 +59,10 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 ---
 
 #### Teaching Experiences
-IEOR 263A **Applied Stochastic Process I**, Fall 2024
+- **Graduate Student Instructor**
+  - IEOR 263A **Applied Stochastic Process I**, Fall 2024
+  - IEOR 166 **Decision Analytics**, Fall 2023
 
-IEOR 166 **Decision Analytics**, Fall 2023
 
 
 ---
