@@ -320,14 +320,8 @@ scholar:
   bibliography_template: bib
 
   # Configuration for the working papers section
-  working_papers:
-    bibliography: working_papers.bib  # Points to the new BibTeX file for working papers
-    bibliography_template: bib
-    details_dir: bibliography
-    details_link: Details
-    query: "@*"
-    group_by: year
-    group_order: descending
+  bibliography: working_papers.bib
+  bibliography_template: bib
 
   # Filters and other settings for BibTeX entries
   bibtex_filters: [latex, smallcaps, superscript]
