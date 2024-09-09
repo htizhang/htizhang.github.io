@@ -306,7 +306,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
 scholar:
   last_name: [Zhang]
   first_name: [Haoting]
@@ -315,22 +314,35 @@ scholar:
   locale: en
 
   source: /_bibliography/
+
+  # Main bibliography for published papers
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
 
+  # Configuration for the working papers section
+  working_papers:
+    bibliography: working_papers.bib  # Points to the new BibTeX file for working papers
+    bibliography_template: bib
+    details_dir: bibliography
+    details_link: Details
+    query: "@*"
+    group_by: year
+    group_order: descending
+
+  # Filters and other settings for BibTeX entries
+  bibtex_filters: [latex, smallcaps, superscript]
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
-  details_link: Details
+  details_dir: bibliography  # Directory for detailed views of entries
+  details_link: Details       # Label for links to detailed views
 
+  # Default query and grouping for the main bibliography (publications)
   query: "@*"
   group_by: year
   group_order: descending
+
+
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
@@ -341,31 +353,7 @@ enable_publication_badges:
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    annotation,
-    arxiv,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    google_scholar_id,
-    html,
-    inspirehep_id,
-    pdf,
-    poster,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
-  ]
+filtered_bibtex_keywords: [abbr, abstract, altmetric, arXiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website, progress, target, award1, award2, awrad3, Conference, ssrn]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit:  # leave blank to always show all authors
