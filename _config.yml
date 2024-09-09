@@ -316,22 +316,34 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
 
+  # Main bibliography for published papers
+  bibliography: papers.bib  # This applies to the Publications section
+  bibliography_template: bib  # Use the same bib.liquid template
+
+  # Filters and formatting options for both sections
+  bibtex_filters: [latex, smallcaps, superscript]
   replace_strings: true
   join_strings: true
 
   details_dir: bibliography
   details_link: Details
 
+  # Query and grouping options
   query: "@*"
   group_by: none
   group_order: descending
+
+  # Configuration for the working papers section
+  working_papers:
+    bibliography: working_papers.bib  # File for working papers
+    bibliography_template: bib  # Use the same bib.liquid template
+    details_dir: bibliography
+    details_link: Details
+    query: "@*"
+    group_by: none
+    group_order: descending
+
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
