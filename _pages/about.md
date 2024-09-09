@@ -8,9 +8,7 @@ profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p style="font-size:12px; color:grey">Berkeley, California</p>
-      
+  more_info: > 
     <p style="font-size:12px; color:grey">haoting_zhang[at]berkeley[dot]edu</p>
 
 news: false # includes a list of news items
