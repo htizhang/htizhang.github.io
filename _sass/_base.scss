@@ -245,6 +245,7 @@ ul.task-list input[type="checkbox"] {
 // Navbar customization
 
 .navbar {
+  display: none;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
