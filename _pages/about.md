@@ -28,7 +28,7 @@ I am a Ph.D. student in the [Department of Industrial Engineering & Operations R
 ---
 #### Education
 Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
-<span style="margin-left:20px;">Thesis Committee: Professors [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), and [Park Sinchaisri](https://parksinchaisri.github.io/)</span>
+<span style="margin-left:20px;">Thesis Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), and [Park Sinchaisri](https://parksinchaisri.github.io/)</span>
 
 M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span>  
 B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
@@ -70,10 +70,10 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 
 #### Industrial Internships
 
-- **Applied Scientist** <span style="float:right;">(May 2024 -- Aug. 2024)</span>
+- **Applied Scientist** (May 2024 -- Aug. 2024)
   - Department of Supply Chain Optimization Technology (SCOT) at **Amazon**, Bellevue, WA 
 
-- **Applied Scientist** <span style="float:right;">(June 2023 -- Sep. 2023)</span>
+- **Applied Scientist** (June 2023 -- Sep. 2023)
   - Department of Supply Chain Optimization Technology (SCOT) at **Amazon**, Bellevue, WA 
 
 
