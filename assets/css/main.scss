@@ -48,3 +48,15 @@ $max-content-width: {{ site.max_width }};
 h4#teaching-experiences + ul, h4#industrial-internships + ul {
   padding-left: 11rem;
 }
+
+.title-suffix-link:hover {
+  text-decoration: none;
+}
+.title-suffix-link {
+  color: #000;
+  border: 1px solid;
+  padding: 0.1rem .64rem;
+  font-size: .64rem;
+  float: right;
+  font-weight: 500;
+}
