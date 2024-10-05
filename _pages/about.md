@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: websitephoto.jpg
+  image: website photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <p style="font-size:12px; color:grey">haoting_zhang@berkeley.edu</p>
