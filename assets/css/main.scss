@@ -60,3 +60,23 @@ h4#teaching-experiences + ul, h4#industrial-internships + ul {
   float: right;
   font-weight: 500;
 }
+
+
+.post article {
+  .profile.float-right {
+     margin-left: 1rem;
+    padding: 1.5rem 0 0 1.5rem;
+    background-color: #fff;
+  }
+}
+
+
+@media only screen and (max-width: 640px) {
+  .post article {
+    .profile.float-right {
+      margin-left: 1rem;
+      padding: 0;
+      background-color: #fff;
+    }
+  }
+}
