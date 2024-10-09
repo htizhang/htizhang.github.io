@@ -1,12 +1,3 @@
-<style>
-  img.profile-photo {
-    width: 75%; /* Resize the image to 75% */
-    margin-left: 20px; /* Add space between the image and text */
-  }
-</style>
-
----
-
 layout: about
 title: About
 permalink: /
