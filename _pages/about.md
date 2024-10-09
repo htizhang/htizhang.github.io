@@ -2,23 +2,23 @@
 layout: about
 title: About
 permalink: /
-#subtitle: 
 
 profile:
   align: right
   image: photo.jpg
-  image_circular: false # crops the image to make it circular
-  image_style: "width: 75%; margin-left: 20px;" 
+  image_circular: false
+  image_class: "profile-photo"
   more_info: > 
     <p style="font-size:12px; color:grey">haoting_zhang@berkeley.edu</p>
 
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
 ---
 
----
+<style>
+  img.profile-photo {
+    width: 75%; /* Adjusts the image size */
+    margin-left: 20px; /* Adds space between the image and the text */
+  }
+</style>
 
 I am a Ph.D. student in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). I am advised by Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/).
 
