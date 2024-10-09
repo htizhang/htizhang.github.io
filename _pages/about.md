@@ -1,4 +1,12 @@
+<style>
+  img.profile-photo {
+    width: 75%; /* Resize the image to 75% */
+    margin-left: 20px; /* Add space between the image and text */
+  }
+</style>
+
 ---
+
 layout: about
 title: About
 permalink: /
@@ -29,8 +37,8 @@ I am a Ph.D. student in the [Department of Industrial Engineering & Operations R
 ---
 #### Education
 Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
-<span style="margin-left:20px;">Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), [Park Sinchaisri](https://parksinchaisri.github.io/)</span>
-M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span>  
+<span style="margin-left:20px;">Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), [Park Sinchaisri](https://parksinchaisri.github.io/)</span><br>
+M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span><br>
 B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
 
 
