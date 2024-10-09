@@ -8,7 +8,7 @@ profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
-  image_style: "width: 75%;"
+  image_style: "width: 75%; margin-left: 20px;" 
   more_info: > 
     <p style="font-size:12px; color:grey">haoting_zhang@berkeley.edu</p>
 
