@@ -13,7 +13,7 @@ profile:
 ---
 
 
-My name is Haoting Zhang. I am a Ph.D. student in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). I am advised by Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/). I enjoy doing research at the intersection of simulation analytics and machine learning, to bring together the relative strengths of OR methods and machine learning. I have done two internships at [Amazon Supply Chain Optimization Technology](https://www.amazon.science/tag/supply-chain-optimization-technologies), working on improving customer experience related to supply chain and monitoring overstock inventory management.
+My name is Haoting Zhang. I am a Ph.D. student in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). I am advised by Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) and Prof. [Rhonda Righter](https://rrighter.ieor.berkeley.edu/). I enjoy doing research at the intersection of simulation analytics and machine learning, to bring together the relative strengths of OR methods and machine learning. I have done two internships at [Amazon Supply Chain Optimization Technology (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies), working on improving customer experience related to supply chain and monitoring overstock inventory management.
 
 
 
