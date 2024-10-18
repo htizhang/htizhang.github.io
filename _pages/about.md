@@ -21,19 +21,25 @@ My name is Haoting Zhang. I am a Ph.D. student in the [Department of Industrial 
 
 ---
 #### Education
-<div style="display: grid; grid-template-columns: auto 100px; align-items: baseline;">
-  <div>Ph.D. in Operations Research from the University of California, Berkeley</div>
-  <div style="text-align:right;">(Expected 2025)</div>
-</div>
-<div style="margin-left:20px;">Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), [Park Sinchaisri](https://parksinchaisri.github.io/)</div>
-<div style="display: grid; grid-template-columns: auto 100px; align-items: baseline;">
-  <div>M.S. in Operations Research from the University of California, Berkeley</div>
-  <div style="text-align:right;">(2021)</div>
-</div>
-<div style="display: grid; grid-template-columns: auto 100px; align-items: baseline;">
-  <div>B.S. in Mathematics from Sichuan University</div>
-  <div style="text-align:right;">(2019)</div>
-</div>
+<table style="width:100%;">
+  <tr>
+    <td>Ph.D. in Operations Research from the University of California, Berkeley</td>
+    <td style="text-align:right;">(Expected 2025)</td>
+  </tr>
+  <tr>
+    <td style="padding-left:20px;">Committee: <a href="https://zheng.ieor.berkeley.edu/">Zeyu Zheng</a>, <a href="https://rrighter.ieor.berkeley.edu/">Rhonda Righter</a>, <a href="https://shen.ieor.berkeley.edu/">Zuo-Jun (Max) Shen</a>, <a href="https://parksinchaisri.github.io/">Park Sinchaisri</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>M.S. in Operations Research from the University of California, Berkeley</td>
+    <td style="text-align:right;">(2021)</td>
+  </tr>
+  <tr>
+    <td>B.S. in Mathematics from Sichuan University</td>
+    <td style="text-align:right;">(2019)</td>
+  </tr>
+</table>
+
 
 
 
