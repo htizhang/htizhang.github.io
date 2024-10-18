@@ -21,25 +21,10 @@ My name is Haoting Zhang. I am a Ph.D. student in the [Department of Industrial 
 
 ---
 #### Education
-<table style="width:100%;">
-  <tr>
-    <td>Ph.D. in Operations Research from the University of California, Berkeley</td>
-    <td style="text-align:right;">(Expected 2025)</td>
-  </tr>
-  <tr>
-    <td style="padding-left:20px;">Committee: <a href="https://zheng.ieor.berkeley.edu/">Zeyu Zheng</a>, <a href="https://rrighter.ieor.berkeley.edu/">Rhonda Righter</a>, <a href="https://shen.ieor.berkeley.edu/">Zuo-Jun (Max) Shen</a>, <a href="https://parksinchaisri.github.io/">Park Sinchaisri</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>M.S. in Operations Research from the University of California, Berkeley</td>
-    <td style="text-align:right;">(2021)</td>
-  </tr>
-  <tr>
-    <td>B.S. in Mathematics from Sichuan University</td>
-    <td style="text-align:right;">(2019)</td>
-  </tr>
-</table>
-
+Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
+<span style="margin-left:20px;">Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), [Park Sinchaisri](https://parksinchaisri.github.io/)</span><br>
+M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span><br>
+B.S. in Mathematics from Sichuan University <span style="float:right;">(2019)</span>
 
 
 
