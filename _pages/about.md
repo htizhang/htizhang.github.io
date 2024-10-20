@@ -21,7 +21,7 @@ My name is Haoting Zhang. I am a Ph.D. student in the [Department of Industrial 
 
 ---
 #### Education
-<div style="width: 68%;">
+<div  class="education-top-description">
 Ph.D. in Operations Research from the University of California, Berkeley <span style="float:right;">(Expected 2025)</span>  
 <span style="margin-left:20px;">Committee: [Zeyu Zheng](https://zheng.ieor.berkeley.edu/), [Rhonda Righter](https://rrighter.ieor.berkeley.edu/), [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/), [Park Sinchaisri](https://parksinchaisri.github.io/)</span><br>
 M.S. in Operations Research from the University of California, Berkeley <span style="float:right;">(2021)</span><br>

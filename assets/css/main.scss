@@ -71,6 +71,12 @@ h4#teaching-experiences + ul, h4#industrial-internships + ul {
 }
 
 
+
+.education-top-description {
+  width: 68%;
+}
+
+
 @media only screen and (max-width: 640px) {
   .post article {
     .profile.float-right {
@@ -78,5 +84,9 @@ h4#teaching-experiences + ul, h4#industrial-internships + ul {
       padding: 0;
       background-color: #fff;
     }
+  }
+
+  .education-top-description {
+    width: 100%;
   }
 }
