@@ -65,10 +65,10 @@ Simulation Analytics, Stochastic Systems, and Machine Learning
 
 #### Industrial Internships
 
-- **Applied Scientist** (May 2024 -- Aug. 2024)
+- **Applied Scientist Intern** (May 2024 -- Aug. 2024)
   - Department of Supply Chain Optimization Technology (SCOT) at **Amazon**, Bellevue, WA 
 
-- **Applied Scientist** (June 2023 -- Sep. 2023)
+- **Applied Scientist Intern** (June 2023 -- Sep. 2023)
   - Department of Supply Chain Optimization Technology (SCOT) at **Amazon**, Bellevue, WA 
 
 
