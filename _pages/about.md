@@ -13,7 +13,7 @@ profile:
 ---
 
 
-My name is Haoting Zhang. I am an Applied Scientist at [Amazon Supply Chain Optimization Technology (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies). I did my Ph.D. in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). My reseach interest includes stochastic systems and simulation, and generative AI. Previously, I was a student member at [Berkeley AI Research (BAIR)] (https://bair.berkeley.edu/) Lab.
+My name is Haoting Zhang. I am an Applied Scientist at [Amazon Supply Chain Optimization Technology (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies). I did my Ph.D. in the [Department of Industrial Engineering & Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). My reseach interest includes stochastic systems and simulation, and generative AI. Previously, I was a student member at [Berkeley AI Research (BAIR)](https://bair.berkeley.edu/) Lab.
 
 
 
